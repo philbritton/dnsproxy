@@ -860,5 +860,15 @@
         "dnat": false
       }
     ]
+  },
+  "ncaa": {
+    "proxies": [
+      {
+        "alias": "www.ncaa.com",
+        "domain": "www.ncaa.com",
+        "protocols": ["http", "https"],
+        "dnat": false
+      }
+    ]
   }
 }
